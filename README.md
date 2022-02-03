@@ -12,7 +12,7 @@
 - :door: I can to help you with Java and Angular because are the most language I used in my life if you need. :door:
 ### :video_game: My Skills :video_game:
 - :bomb: I have a knowlegede about bellow list :bomb:
-- :fire: java: fire:
+- :fire: java :fire:
 - :fire: TypeScript :fire:
 - :fire: TypeScript :fire:
 - :fire: PHP :fire:
