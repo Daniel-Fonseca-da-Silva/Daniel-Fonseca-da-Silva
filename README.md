@@ -14,7 +14,6 @@
 - :bomb: I have a knowlegede about bellow list :bomb:
 - :fire: java :fire:
 - :fire: TypeScript :fire:
-- :fire: TypeScript :fire:
 - :fire: PHP :fire:
 - :fire: Ruby :fire:
 - :fire: HTML5 :fire:
