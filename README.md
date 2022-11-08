@@ -1,4 +1,4 @@
-<h2 align="left">:hand: Hi my name is Daniel and you can feeling good now you are welcome in my house. :hand:<br>:rocket: I am from Brazil now but I am prepared to a trip around the world. :rocket:<br> :electric_plug: I am Bachelor in Information Systems.:electric_plug:<br>:coffee: I work like full stack Java and Angular in a company in the south of Brazil helping the cities growing making softwares to public administration. :coffee:</h2>
+<h2 align="left">:hand: Hi my name is Daniel and you can feeling good, now you are welcome in my house. :hand:<br>:rocket: I am from Brazil now but I am prepared to a trip around the world. :rocket:<br> :electric_plug: I am Bachelor in Information Systems.:electric_plug:<br>:coffee: I work like full stack Java and Angular in a company in the south of Brazil Equiplano part of the big Canadian company called Volaris Group Inc helping the cities growing around the world making softwares to public administration. :coffee:</h2>
 
 ###
 
