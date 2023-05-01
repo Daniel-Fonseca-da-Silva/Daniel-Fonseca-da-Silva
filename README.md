@@ -1,71 +1,23 @@
-<h2 align="left">:hand: Welcome mr or sr I am Daniel From Brazil a young developer and founder of company IT named Dafon. We combine solid technical skills with a collaborative, customer-focused approach. As a web system creation company, Dafon has the expertise to help companies achieve their technology goals, while I, as a full stack developer, have the ability to execute these projects efficiently and effectively.
-Dafon and I are always looking for ways to improve our skills and knowledge, which means the company can rely on innovative and up-to-date solutions. With the ability to work on all layers of a project, I can ensure that the integration between the different parts is easy and smooth, which can avoid schedule delays and costly errors.
-In addition, my company and I strive to understand the needs and objectives of our customers, which means that we can provide customized and targeted solutions that meet their specific needs. With a collaborative, customer-focused approach, we can and will ensure that your company succeeds in its technology projects and achieves its goals.
-Your company can trust me and Dafon because we combine solid technical skills with a collaborative, customer-focused approach. In addition, we are always looking for ways to improve our skills, growth with qualified professionals and knowledge, which means that the company can count on innovative and up-to-date and effective solutions.
-After knowing about all this and my company are you willing to increase your sales efficiently and modernly with the latest technologies on the market? yes please contact me directly. :coffee:</h2>
+I am a highly skilled developer with over 5 years of experience in both back-end and front-end development, and I have a wide range of skills in different programming technologies. I have in-depth knowledge of programming languages such as Java and TypeScript, and frameworks such as Spring, Angular, Next, and NestJS.
 
-###
+In back-end development, I specialize in API development, databases, and system integrations, and I am capable of designing complex architectures, implementing scalable solutions, and ensuring application security.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&username=Daniel-Fonseca-da-Silva " height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&username=Daniel-Fonseca-da-Silva " height="200" alt="languages graph"  />
-</div>
+In front-end development, I am capable of creating attractive and responsive user interfaces using technologies such as Angular and Next. I have experience working with responsive design, animations and user interactions, as well as accessibility and SEO skills.
 
-###
+As a developer, I can work independently or as part of a team, I have excellent communication skills, and I am highly responsible and reliable. I am always looking to learn and keep up with new technologies and market trends, committed to delivering high-quality and high-performance projects.
 
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/15l3h7.jpg"  />
-</div>
+Currently, I work as a programmer for my own company Dafon and as a CTO for two other companies in my free time.
 
-###
+Site: https://dafon.dev/pt/main/
+Email: daniel@dafon.dev
+Github: https://github.com/Daniel-Fonseca-da-Silva
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="62" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="62" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="62" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="62" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="62" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="62" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="62" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" width="62" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" width="62" alt="godot logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="62" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" width="62" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" width="62" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="62" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="62" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="62" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="62" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="62" alt="wordpress logo"  />
-</div>
+Sou um desenvolvedor com mais de 5 anos de experiência no back end e no front end altamente qualificado e tenho um amplo conjunto de habilidades em diferentes tecnologias de programação. Possuo conhecimento profundo em linguagens de programação como Java e TypeScript e frameworks como Spring, Angular, Next e NestJS.
 
-###
+No back end, sou especialista em desenvolvimento de APIs, bancos de dados e integrações de sistemas. sendo capaz de projetar arquiteturas complexas, implementar soluções escaláveis e garantir a segurança das aplicações.
 
-<div align="left">
-  <a href="danielfonlva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-f-s-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5524981579339&text=I%20want%20to%20speak%20about%20a%20job%20in%20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+No front end, sou capaz de criar interfaces de usuário atraentes e responsivas, utilizando tecnologias como Angular e Next. Tenho experiência em trabalhar com design responsivo, animações e interações de usuário, além de ter habilidades em acessibilidade e SEO.
 
-###
+Como desenvolvedor sou capaz de trabalhar de forma independente ou em equipe, tenho excelentes habilidades de comunicação e sou altamente responsável e confiável. Estou sempre buscando aprender e me atualizar em novas tecnologias e tendências de mercado, comprometido em entregar projetos de alta qualidade e desempenho.
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/Daniel-Fonseca-da-Silva /Daniel-Fonseca-da-Silva /blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center">:carousel_horse: We can work together if you need a hand in your projects :carousel_horse:</p>
-
-###
+Atualmente trabalho programando para minha própria empresa Dafon e para outras duas empresas no temu tempo livre como CTO.
