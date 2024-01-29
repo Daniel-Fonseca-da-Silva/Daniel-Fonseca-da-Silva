@@ -16,6 +16,8 @@ Email: daniel117fonseca@gmail.com
 Cellphone: +351 913 619 053
 Github: https://github.com/Daniel-Fonseca-da-Silva
 
+
+
 Sou um engenheiro informático atualmente residindo em Portugal. Desde a infância, sempre fui fascinado por tecnologia e algoritmos. Essa paixão me conduziu ao mundo da programação desde cedo, onde absorvi conhecimento através da leitura de livros especializados, principalmente em estrutura de dados.
 
 Na juventude, iniciei minha jornada educacional participando de cursos presenciais, abrangendo temas como redes e sistemas operacionais, além de cursos online. Determinado a transformar minha paixão em prática, comecei a desenvolver meus próprios projetos.
@@ -29,6 +31,8 @@ Tenho uma sólida experiência em bancos de dados, incluindo PostgreSQL, Redis e
 Além de todas as minhas habilidades técnicas, destaco-me no suporte e orientação a desenvolvedores juniores. Estou sempre disposto a compartilhar meus conhecimentos e ajudar a equipe a crescer e se desenvolver. Minha experiência inclui trabalhar em equipe, fornecendo orientação e resolvendo desafios técnicos.
 
 Um aspecto fundamental do meu trabalho é a melhoria contínua dos sistemas web front-end e back-end. Estou sempre em busca de oportunidades para otimizar e aprimorar o desempenho, usabilidade e segurança das aplicações que desenvolvo. Mantenho-me atualizado com as melhores práticas e tendências do setor, garantindo que os sistemas que construo estejam alinhados com os mais altos padrões de qualidade.
+
+
 
 Soy un ingeniero informático que actualmente reside en Portugal. Desde la infancia, siempre me ha fascinado la tecnología y los algoritmos. Esta pasión me llevó al mundo de la programación desde temprana edad, donde absorbí conocimientos a través de la lectura de libros especializados, principalmente en estructuras de datos.
 
