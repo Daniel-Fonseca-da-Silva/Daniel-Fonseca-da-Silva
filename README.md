@@ -13,5 +13,7 @@ In addition to my technical skills, I excel in supporting and guiding junior dev
 An essential aspect of my work is the continuous improvement of both front-end and back-end web systems. I am always seeking opportunities to optimize and enhance the performance, usability, and security of the applications I develop. I stay updated on industry best practices and trends, ensuring that the systems I build align with the highest quality standards.
 
 Email: dafondeveloper@gmail.com
+
 Cellphone: +351 913 619 053
+
 Github: https://github.com/Daniel-Fonseca-da-Silva
