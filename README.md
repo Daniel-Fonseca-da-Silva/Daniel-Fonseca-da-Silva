@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 <img src="img\profile_image.png"/>
 </div>
 
@@ -133,6 +133,13 @@
   <summary>
     <a>Golang Basic Certificate By Hackerrank</a>
     <a>Scrum Fundamentals Certified- SCRUMstudy</a>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <a>Golang Basic Certificate(Hackerrank)</a></br>
+    <a>Scrum Fundamentals Certified(SCRUMstudy)</a>
   </summary>
 </details>
 
