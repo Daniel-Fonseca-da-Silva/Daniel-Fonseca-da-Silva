@@ -1,7 +1,3 @@
-<div align="center">
-<img src="img\profile_image.png"/>
-</div>
-
 ## About me 
 - 😎 Hello my name is Daniel Fonseca da Silva.
 - 🔭 I'm currently working as a Software Developer Engineer.
@@ -131,14 +127,13 @@
 
 <details>
   <summary>
-    <a>Golang Basic Certificate By Hackerrank</a>
-    <a>Scrum Fundamentals Certified- SCRUMstudy</a>
+    <a>Golang Basic Certificate(Hackerrank)</a></br>
+    <a>Scrum Fundamentals Certified(SCRUMstudy)</a>
   </summary>
 </details>
 
 <details>
   <summary>
-    <a>Golang Basic Certificate(Hackerrank)</a></br>
     <a>Scrum Fundamentals Certified(SCRUMstudy)</a>
   </summary>
 </details>
