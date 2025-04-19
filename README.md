@@ -128,7 +128,6 @@
 <details>
   <summary>
     <a>Golang Basic Certificate(Hackerrank)</a></br>
-    <a>Scrum Fundamentals Certified(SCRUMstudy)</a>
   </summary>
 </details>
 
