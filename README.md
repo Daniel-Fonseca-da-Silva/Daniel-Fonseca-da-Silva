@@ -137,7 +137,7 @@
 </details>
 
 ## My courses
-[![Portuguese Profile](https://www.udemy.com/user/daniel-fonseca-da-silva/)
+[Courses on Udemy](https://www.udemy.com/user/daniel-fonseca-da-silva/)
 
 ## Find me on social media: 
   <a href="https://www.linkedin.com/in/daniel-f-s-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
