@@ -52,7 +52,7 @@
   
   - Golang(Chi, gin, gorm)
   - Java(Spring)
-  - Node(NestJS)
+  - Node(NestJS, Prisma)
 </details>
 
 <details>
